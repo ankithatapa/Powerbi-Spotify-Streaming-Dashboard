@@ -6,6 +6,7 @@ This project presents an interactive Power BI dashboard built to analyze Spotify
 The dashboard transforms raw streaming data into clear visual insights, helping identify popularity trends, listener behavior, and top-performing content through dynamic KPIs and drill-down analysis.
 
 ✅ Business Requirements
+
 Overview Page
 
 Track KPIs (Total Songs, Distinct Artists, Avg Popularity, Avg Duration)
@@ -42,23 +43,6 @@ Provide detailed song-level performance table
 
 📄 Full requirement document: Business Requirements.docx 
 
-Bussiness Requirements
-
-❗ Problem Statement
-
-No clear KPI monitoring for streaming performance
-
-Difficulty comparing explicit vs non-explicit content
-
-Limited visibility into album and release trends
-
-Lack of monthly/annual trend analysis
-
-Artist and song insights disconnected
-
-Decision-making gaps for marketing and playlist teams
-
-The dashboard addresses these challenges by providing connected, interactive, and drill-down analytics.
 🎯 Objectives
 
 Monitor overall streaming performance
