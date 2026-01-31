@@ -63,7 +63,7 @@ Data Modeling (Star Schema)
 
 Data Cleaning & Transformation
 
-CSV / Excel datasets
+CSV
 
 Author Ankitha Tapa 
 Github: https://github.com/ankithatapa
